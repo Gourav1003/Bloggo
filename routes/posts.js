@@ -85,7 +85,7 @@ router.get("/:id", function (req, res) {
 
 router.get("/:id/edit", middleware.checkCustom, (req, res) => {
 	Post.findById(req.params.id, (err, foundPost) => {
-		res.render("Posts/edit", { post: foundPost });
+		res.render("posts/edit", { post: foundPost });
 	});
 });
 
