@@ -12,7 +12,7 @@ A simple blogging webapp built using NodeJS, ExpressJS and MongoDb. Authenticate
 
 ## Checkout Hosted WebApp here
 
-[Click here ✌]https://tranquil-brook-25525.herokuapp.com/)
+[Click here ✌](https://tranquil-brook-25525.herokuapp.com/)
 
 ## Routes
 
